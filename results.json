@@ -1,0 +1,62 @@
+[
+  {
+    "customer": "I can't access my invoice. Can you resend it?",
+    "generated": "Thanks for reaching out. I've just resent the invoice to your registered email address. Please let us know if you face any further issues or need additional assistance!",
+    "scores": {
+      "semantic": 0.983,
+      "politeness": 1.0,
+      "completeness": 0.6
+    },
+    "hybrid_score": 0.892,
+    "judge_scores": {
+      "tone": 3,
+      "helpfulness": 3,
+      "completeness": 3
+    }
+  },
+  {
+    "customer": "Do you offer discounts for nonprofits?",
+    "generated": "We do offer special pricing for nonprofits. Could you share more details about your organization so we can assist you better?",
+    "scores": {
+      "semantic": 1.0,
+      "politeness": 0.5,
+      "completeness": 1.0
+    },
+    "hybrid_score": 0.875,
+    "judge_scores": {
+      "tone": 3,
+      "helpfulness": 3,
+      "completeness": 3
+    }
+  },
+  {
+    "customer": "My account was charged twice. Please help.",
+    "generated": "I\u2019m sorry for the inconvenience caused. I\u2019d be happy to look into this for you right away. Could you please share the transaction details or the invoice numbers so we can investigate and process the necessary refund?",
+    "scores": {
+      "semantic": 0.589,
+      "politeness": 1.0,
+      "completeness": 1.0
+    },
+    "hybrid_score": 0.794,
+    "judge_scores": {
+      "tone": 3,
+      "helpfulness": 3,
+      "completeness": 3
+    }
+  },
+  {
+    "customer": "Can I upgrade my plan mid-cycle?",
+    "generated": "Thanks for reaching out! Yes, you can upgrade your plan at any time mid-cycle. The charges will be adjusted on a prorated basis for the remainder of your billing period. \n\nWould you like me to share the steps to do this from your dashboard, or would you prefer I assist you with the upgrade from our end?",
+    "scores": {
+      "semantic": 0.876,
+      "politeness": 0.5,
+      "completeness": 1.0
+    },
+    "hybrid_score": 0.813,
+    "judge_scores": {
+      "tone": 3,
+      "helpfulness": 3,
+      "completeness": 3
+    }
+  }
+]
