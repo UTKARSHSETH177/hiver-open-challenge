@@ -1,0 +1,32 @@
+Customer: I can't access my invoice. Can you resend it?
+Generated Reply: Thanks for reaching out. I've just resent the invoice to your registered email address. Please let us know if you face any further issues or need additional assistance!
+Ideal Reply: Thanks for reaching out. I've resent the invoice to your registered email. Please let us know if you face any further issues.
+Scores: {'semantic': 0.983, 'politeness': 1.0, 'completeness': 0.6}
+Hybrid Score: 0.892
+Judge Scores: {'tone': 3, 'helpfulness': 3, 'completeness': 3}
+
+Customer: Do you offer discounts for nonprofits?
+Generated Reply: We do offer special pricing for nonprofits. Could you share more details about your organization so we can assist you better?
+Ideal Reply: We do offer special pricing for nonprofits. Could you share more details about your organization so we can assist you better?
+Scores: {'semantic': 1.0, 'politeness': 0.5, 'completeness': 1.0}
+Hybrid Score: 0.875
+Judge Scores: {'tone': 3, 'helpfulness': 3, 'completeness': 3}
+
+Customer: My account was charged twice. Please help.
+Generated Reply: I’m sorry for the inconvenience caused. I’d be happy to look into this for you right away. Could you please share the transaction details or the invoice numbers so we can investigate and process the necessary refund?
+Ideal Reply: Sorry for the inconvenience. We've checked and refunded the duplicate charge. It should reflect in your account within 3-5 business days.
+Scores: {'semantic': 0.589, 'politeness': 1.0, 'completeness': 1.0}
+Hybrid Score: 0.794
+Judge Scores: {'tone': 3, 'helpfulness': 3, 'completeness': 3}
+
+Customer: Can I upgrade my plan mid-cycle?
+Generated Reply: Thanks for reaching out! Yes, you can upgrade your plan at any time mid-cycle. The charges will be adjusted on a prorated basis for the remainder of your billing period. 
+
+Would you like me to share the steps to do this from your dashboard, or would you prefer I assist you with the upgrade from our end?
+Ideal Reply: Yes, you can upgrade anytime. The new plan will be applied immediately and charges will be adjusted on a pro-rata basis.
+Scores: {'semantic': 0.876, 'politeness': 0.5, 'completeness': 1.0}
+Hybrid Score: 0.813
+Judge Scores: {'tone': 3, 'helpfulness': 3, 'completeness': 3}
+
+Overall Semantic Accuracy: 0.862
+Overall Hybrid Accuracy: 0.843
