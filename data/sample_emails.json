@@ -1,0 +1,18 @@
+[
+  {
+    "customer": "I can't access my invoice. Can you resend it?",
+    "ideal_reply": "Thanks for reaching out. I've resent the invoice to your registered email. Please let us know if you face any further issues."
+  },
+  {
+    "customer": "Do you offer discounts for nonprofits?",
+    "ideal_reply": "We do offer special pricing for nonprofits. Could you share more details about your organization so we can assist you better?"
+  },
+  {
+    "customer": "My account was charged twice. Please help.",
+    "ideal_reply": "Sorry for the inconvenience. We've checked and refunded the duplicate charge. It should reflect in your account within 3-5 business days."
+  },
+  {
+    "customer": "Can I upgrade my plan mid-cycle?",
+    "ideal_reply": "Yes, you can upgrade anytime. The new plan will be applied immediately and charges will be adjusted on a pro-rata basis."
+  }
+]
