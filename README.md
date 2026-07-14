@@ -70,7 +70,7 @@ Together, this reflects real quality beyond a single number.
 
 ## ⚙️ Setup
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/UTKARSHSETH177/hiver-open-challenge.git
 cd hiver-open-challenge-advanced
 python -m venv venv
 .\venv\Scripts\Activate   # Windows PowerShell
